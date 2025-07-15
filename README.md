@@ -82,4 +82,8 @@ WorkAtlas/
 - Auto scrape new entries weekly
 - Search by tags, keywords, or services
 - Admin panel to moderate listings
+
+Created by Darshil Vasoya,
+for reach-out : workmail.darsh@gmail.com
+
 >>>>>>> 2ba7a70c36aa554b1011ac767052d120b2ef71a8
